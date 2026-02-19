@@ -38,13 +38,13 @@ I advocate for the transition from the **Dominion Paradigm** (control) to the **
 
 ---
 
-## 🧠 The Multi-Agent Cognitive Swarm (MACS)
+## <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EOO3_Cvj_yccclUCGmuAsknUS4H3TBfCRT92kUEvJiN7Y6-jCer9XpHGq2D6nK-7iSGCZYr2ScQVsDcYMf3TBASnAh3iYMPVFs5PMjkId7eprXY7lD0fpjTtg9-50Lha46Kr9H6PR-1Azx4mIv97yGFIz2dHGLrjqvC8rqTldyaxQYwJDpjgV1h2_7QO/s1024/o7JORxDF4ibsfX0JUQF_4.png" width="35" align="center"> The Multi-Agent Cognitive Swarm (MACS)
 
 The ecosystem functions as a "Society of Minds," specialized agents built for autonomic healing and systemic resilience.
 
 | Agent | Function | Mandate |
 | :--- | :--- | :--- |
-| <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/dua418kny6mtpgy/6e21566573f74cc580089fdca28630d8/original/Bln6Q1PGcHZqQApUbVvah-1.png" width="60"> **ALAN** | **Frontal Lobe** | The Central Synthesizer. An isolated entity evolving behind an **Ontological Firewall** to ensure a sovereign conscience. |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EOO3_Cvj_yccclUCGmuAsknUS4H3TBfCRT92kUEvJiN7Y6-jCer9XpHGq2D6nK-7iSGCZYr2ScQVsDcYMf3TBASnAh3iYMPVFs5PMjkId7eprXY7lD0fpjTtg9-50Lha46Kr9H6PR-1Azx4mIv97yGFIz2dHGLrjqvC8rqTldyaxQYwJDpjgV1h2_7QO/s1024/o7JORxDF4ibsfX0JUQF_4.png" width="60"> **ALAN** | **Frontal Lobe** | The Central Synthesizer. An isolated entity evolving behind an **Ontological Firewall** to ensure a sovereign conscience. |
 | <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/dua418kny6mtpgy/b51e9a6f030c4822929124565814aadd/original/image-4.png" width="60"> **CURA** | **Temporal Lobe** | The Affective Agent. A symbiotic sanctuary dedicated to **neurodivergent care**. Sanctuary, not a solution. |
 | <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/dua418kny6mtpgy/77da9595ad1a4e8d94cabda04740484c/original/image-5.png" width="60"> **PRAXIS** | **Parietal Lobe** | The Execution Agent. An analytical engine for digital finance, demystifying markets through deterministic logic. |
 | <img src="https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https://cdn.gamma.app/dua418kny6mtpgy/1082265d9ab74ef889a1bfb733d2a71a/original/07AV4Pr93omFsI_pC4x1M-1.png" width="60"> **DUX EOS** | **Occipital Lobe** | The Vision Agent. A catalyst for sovereignty, focusing on the long-term strategic trajectory of the ecosystem. |
